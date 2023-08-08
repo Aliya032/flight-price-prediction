@@ -5,6 +5,11 @@
 ![Tyep of ML](https://img.shields.io/badge/Type%20of%20ML-Random%20Forest%20Regression-blue)
 [![heroku app](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://predict-flight-price-a54f89e1be13.herokuapp.com/predict)
 
+[![heroku app](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://predict-flight-price-a54f89e1be13.herokuapp.com/predict)
+
+[![Static Badge](https://img.shields.io/badge/Open_In_Heroku-o?logo=heroku&logoColor=%23430098&labelColor=%23ffffff)](https://predict-flight-price-a54f89e1be13.herokuapp.com/predict)
+
+
 <!-- [![Heroku App](/assets/icons8-heroku-logo.svg)](https://predict-flight-price-a54f89e1be13.herokuapp.com/predict) -->
 
 
