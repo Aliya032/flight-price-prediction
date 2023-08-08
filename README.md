@@ -3,13 +3,7 @@
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Aliya032/flight-price-prediction/main?color=FFDA15)
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/Aliya032/flight-price-prediction?color=D95353)
 ![Tyep of ML](https://img.shields.io/badge/Type%20of%20ML-Random%20Forest-blue)
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://predict-flight-price-a54f89e1be13.herokuapp.com/predict)
-
-[![Heroku App](https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg)](https://predict-flight-price-a54f89e1be13.herokuapp.com/predict)
-
-![heroku app](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
+[![heroku app](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://predict-flight-price-a54f89e1be13.herokuapp.com/predict)
 [![Heroku App](/assets/icons8-heroku-logo.svg)](https://predict-flight-price-a54f89e1be13.herokuapp.com/predict)
 
 
