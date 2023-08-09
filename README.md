@@ -47,28 +47,35 @@
 ## Quick Glance At The Results
 
 **Information about the dataset:**
+
 ![Info](assets/InfoTrainSet.png)
 
 **Price vs Airline:**
+
 ![Price Vs Airline](assets/PriceVsAirline.png)
 *Inference:* Jet Airways has the most outliers in terms of price.
 
 **Price vs Destination:**
+
 ![Price vs Destination](assets/DestinationVsPrice.png)
 *Inference:* New Delhi has the most outliers and Kolkata has the least. 
 
 **Months vs Number of flights:**
+
 ![Months vs Number of flights](assets/CountOfFlightsMonthsWise.png)
 *Inference:* May has the most number of flights
 
 **Type of Airline vs Number of Flights**
+
 ![Airline vs Number of Flights](assets/AirlineVsNoOfFlights.png)
 *Inference:* Jet Airways has the most flight boarded
 
 **Correlation between all features:**
+
 ![Correlation Heatmap](assets/CorrelationHeatmap.png)
 
 **Feature Importance:**
+
 ![Feature Importance](assets/FeatureImportance.png)
 
 
@@ -83,12 +90,12 @@
 ![Demo GIF](assets/working-demo.gif)
 
 ## Further Readings
-![How Airlines Price Their Flights](#https://www.alternativeairlines.com/blog/how-airlines-price-flights)
-![Why are flights so expensive right now?](#https://thriftytraveler.com/guides/travel/why-are-flights-so-expensive-right-now/)
-![Google Flights](#https://thriftytraveler.com/guides/google-flights/)
-![Airfare Prediction Tools](#https://www.wired.com/story/airfare-prediction-tools/)
+![How Airlines Price Their Flights](https://www.alternativeairlines.com/blog/how-airlines-price-flights)
+![Why are flights so expensive right now?](https://thriftytraveler.com/guides/travel/why-are-flights-so-expensive-right-now/)
+![Google Flights](https://thriftytraveler.com/guides/google-flights/)
+![Airfare Prediction Tools](https://www.wired.com/story/airfare-prediction-tools/)
 ![Flight Price Predictor Tools and Apps
-](#https://techpp.com/2014/05/05/airfare-price-predictor/)
+](https://techpp.com/2014/05/05/airfare-price-predictor/)
 
 
 
