@@ -90,11 +90,11 @@
 ![Demo GIF](assets/working-demo.gif)
 
 ## Further Readings
-- [How Airlines Price Their Flights](https://www.alternativeairlines.com/blog/how-airlines-price-flights)
+- 🔗 [How Airlines Price Their Flights](https://www.alternativeairlines.com/blog/how-airlines-price-flights)
 - [Why are flights so expensive right now?](https://thriftytraveler.com/guides/travel/why-are-flights-so-expensive-right-now/)
 - [Google Flights](https://thriftytraveler.com/guides/google-flights/)
 - [Airfare Prediction Tools](https://www.wired.com/story/airfare-prediction-tools/)
-![Flight Price Predictor Tools and Apps
+- [Flight Price Predictor Tools and Apps
 ](https://techpp.com/2014/05/05/airfare-price-predictor/)
 
 
