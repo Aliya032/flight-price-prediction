@@ -15,7 +15,6 @@
 - [Quick Glance At The Results](#quick-glance-at-the-results)
 - [Limitations & What Can Be Improved](#limitations-and-what-can-be-improved)
 - [Explore The Notebook](#explore-the-notebook)
-- [Deployment On Heroku](#deployment-on-heroku)
 - [App Deployed On Heorku](#app-deployed-on-heroku)
 
 
@@ -25,7 +24,7 @@ This project's objective is to enhance travel planning by forecasting ticket pri
 Predictions about flight prices are generated using a set of key features. These include airline type, arrival and departure times, flight duration, source and destination locations, among others. Through the analysis of these factors, the model provides insights into flight pricing patterns, aiding travelers in planning their journeys effectively. 
 
 ## Data Source
-- Kaggle Flight Fare Prediction(https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh)
+- [Kaggle Flight Fare Prediction](https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh)
 
 ## Methods
 
