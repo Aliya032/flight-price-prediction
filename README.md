@@ -8,12 +8,12 @@
 
 
 ## Table of Contents:
-- [Problem Statement](#business-problem)
+- [Problem Statement](#problem-statement)
 - [Data Source](#data-source)
 - [Methods](#methods)
 - [Tech Stack](#tech-stack)
 - [Quick Glance At The Results](#quick-glance-at-the-results)
-- [Limitations & What Can Be Improved](#limitations-and-what-can-be-improved)
+- [Limitations And What Can Be Improved](#limitations-and-what-can-be-improved)
 - [Explore The Notebook](#explore-the-notebook)
 - [App Deployed On Heorku](#app-deployed-on-heroku)
 
@@ -86,7 +86,7 @@ When then built the model and obtained the following results before and after th
 | After Hyperparameter Tuning | 1163.22 | 4043245.02 | 2010.78 |
 
 
-## Limitations & What Can Be Improved
+## Limitations And What Can Be Improved
 
 1. **Data Timeframe:** This project relies on pre-pandemic data, which might not accurately reflect current market dynamics. Incorporating real-time data spanning more than 7 years could yield more precise predictions. Additionally, including factors like fuel prices and global events (e.g., conflicts, pandemics, economic recessions) could enrich the model's predictive capabilities.
 
